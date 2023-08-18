@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/silcwb/Projects/ECommerce/teste/teste.csproj",
-      "projectName": "teste",
-      "projectPath": "/Users/silcwb/Projects/ECommerce/teste/teste.csproj",
+      "projectUniqueName": "/Users/silcwb/Projects/ECommerce/teste/ECommerce.Api.Products.csproj",
+      "projectName": "ECommerce.Api.Products",
+      "projectPath": "/Users/silcwb/Projects/ECommerce/teste/ECommerce.Api.Products.csproj",
       "packagesPath": "/Users/silcwb/.nuget/packages/",
       "outputPath": "/Users/silcwb/Projects/ECommerce/teste/obj/",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRVym01/YnDp7CgYpzua7tA2LIsFT3nr9j/sxWDEOfkul/mDlqlYnSEfuVfHq2sepTgKlneSWiyNACKnML0fJg==",
+  "dgSpecHash": "POH4sKtu2NKmAtFR9sRtiAhraKSuCI7MVhDwCniMxzxiKRko2GP4xHOlRYuXhaSm+wSqSCwuqPtGyDlf6jSLJg==",
   "success": true,
-  "projectFilePath": "/Users/silcwb/Projects/ECommerce/teste/teste.csproj",
+  "projectFilePath": "/Users/silcwb/Projects/ECommerce/teste/ECommerce.Api.Products.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

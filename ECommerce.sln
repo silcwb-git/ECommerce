@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste", "teste\teste.csproj", "{3C8228CE-D156-40C7-AE52-D83F4EEF4967}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Api.Products", "teste\ECommerce.Api.Products.csproj", "{3C8228CE-D156-40C7-AE52-D83F4EEF4967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
